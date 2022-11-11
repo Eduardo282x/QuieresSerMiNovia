@@ -17,6 +17,6 @@ btnNo.addEventListener('mouseenter',function(e){
 btnSi.addEventListener('click', function(e){
     alert('Sabia que dirias que si');
     modoSexo.style.display = 'block';
-    const cancion = new Audio('img\\ABBA Eminem mix(MP3_128K).mp3')
+    const cancion = new Audio('img\\George Michael Careless Whisper Official Video.mp3')
     cancion.play();
 })
